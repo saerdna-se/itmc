@@ -2,7 +2,7 @@
 """
 Source code for the itmc part of the second synthetic example (Repeated evaluation of Case i, Figure 3) in
 "Is My Model Flexible Enough? Information-Theoretic Model Check",
-Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:NNNN
+Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:1712.02675
 
 Code by Andreas Svensson 2017
 """
