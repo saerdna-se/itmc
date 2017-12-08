@@ -1,7 +1,7 @@
 % Source code for the comparison to the mehod by "Model criticism in
 % latent space" by Set, Murray, Williams (2017), in 
 % "Is My Model Flexible Enough? Information-Theoretic Model Check",
-% Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:NNNN
+% Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:1712.02675
 %
 % Code Andreas Svensson 2017
 
