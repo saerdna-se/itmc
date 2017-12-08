@@ -2,7 +2,7 @@
 """
 Source code for the first synthetic example (dispersion of Case i & ii, Figure 1 & 2) in
 "Is My Model Flexible Enough? Information-Theoretic Model Check",
-Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:NNNN
+Andreas Svensson, Dave Zachariah, Thomas B. Schön arXiv:1712.02675
 
 Code by Andreas Svensson 2017
 """
